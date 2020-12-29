@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.underlined{
+    border-bottom: 5px solid #e2ab23;
+    height: 2px;
+    width: 80px;
+}
+h4{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.path {
+    margin-top: 40px;
+    margin-left: 20px;
+    color:#7E7E7E;
+    text-decoration: none;
+}
+.path i {
+    color: #7E7E7E;
+    padding-right: 15px;
+    font-size: 30px;
+
+}
+.Information {
+    margin-bottom: 30px;
+    font-size: 20px;
+    color: #7E7E7E;
+
+}
+
+.col-sm-7{
+    margin-top:  80px;
+}
+
+.container {
+    background: linear-gradient(to left, #0a0303 52%, #bcbcbc 52%);
+    background: -moz-linear-gradient(to left, #0a0303 52%, #bcbcbc 52%);
+    background: -o-linear-gradient(to left, #0a0303 52%, #bcbcbc 52%);
+    background: -ms-linear-gradient(to left, #0a0303 52%, #bcbcbc 52%);
+    background: -webkit-linear-gradient(right, #0a0303 52%, #bcbcbc 52%);
+}
+button{
+    margin-top: 20px;
+}
